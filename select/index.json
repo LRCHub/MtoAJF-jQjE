@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Melodic Storm (2018 Remastered)",
+  "base_artist": "ストレイテナー",
+  "createdAt": "2026-02-08T15:42:53.949993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Melodic Storm",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/01_Melodic_Storm_Straightener.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Melodic Storm",
+      "artist": "ストレイテナー",
+      "has_synced": true,
+      "path": "select/02_Melodic_Storm_ストレイテナー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Melodic Storm",
+      "artist": "ストレイテナー",
+      "has_synced": true,
+      "path": "select/03_Melodic_Storm_ストレイテナー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Melodic Storm (2018 Remastered)",
+      "artist": "ストレイテナー",
+      "has_synced": true,
+      "path": "select/04_Melodic_Storm_(2018_Remastered)_ストレイテナー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Melodic Storm",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/05_Melodic_Storm_Straightener.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Melodic Storm - 2018 Remastered",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/06_Melodic_Storm_-_2018_Remastered_Straightener.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Melodic Storm -DEAR EDIT-",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/07_Melodic_Storm_-DEAR_EDIT-_Straightener.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Straightener - Melodic Storm",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/08_Straightener_-_Melodic_Storm_Straightener.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Melodic Storm",
+      "artist": "ストレイテナー",
+      "has_synced": false,
+      "path": "select/pl_01_Melodic_Storm_ストレイテナー.txt"
+    }
+  ]
+}
